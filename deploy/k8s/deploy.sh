@@ -1,5 +1,5 @@
 #!/bin/bash
-set -ex
+set -x
 registry=gabrtvbuild.azurecr.io
 dockerOrg=smarthotels
 imageTag=master
